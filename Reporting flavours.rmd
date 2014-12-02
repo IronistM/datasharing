@@ -1,0 +1,35 @@
+---
+title: 'Reporting Definitions'
+author: "m.parzakonis"
+date: "Sunday, May 25, 2014"
+output: ioslides_presentation
+---
+
+## What is reporting
+
+Reporting can be either of two types, but not both: 
+
+- *Ad hoc reporting*: This type of reporting is what is created when people ask for data for a one-time business use or ask for modifications to existing reporting. The nature of an ad hoc request is that it occurs, in principle, just one time. 
+- *Sustaining reporting*: A set of reports automatically produced accurately in a timely manner and distributed to the business via some method (often self-service, email, in binders, and so on). 
+
+
+## Notes
+
+- In reality, when ad hoc reporting keeps being requested, it should be accommodated not as ad hoc reporting but as sustaining reporting. 
+- Ad hoc reporting is often completed manually.
+- From sustaining reporting, analysis can be created and stakeholders can ask “What about this?” questions that can be answered in ad hoc reporting on analysis. Sustaining reporting can be provided in self-service
+
+
+## What is a Dashboard
+
+Dashboards happen as a result of management wanting to distill data into simplified metrics and KPIs that identify the critical few measurements to track, trend, and monitor over time for business planning and performance.
+
+
+## Dashboard vs Reports
+
+- Dashboards are created from details contained in reports. Having too many reports is often one of the main reasons for wanting to create dashboards. 
+- Dashboards bring together key data from multiple reports in one representation. Data existing in multiple systems or across multiple reports are brought together in dashboards. 
+- Dashboards are _high-level_ overviews of what’s contained within reporting. By distilling the most important data in reports, dashboards simplify data for easy comprehension. 
+- Dashboards contain visual representations of data with fewer data tables. Reports contain tables and perhaps a graph. Dashboards are _largely_ visually driven with different iconography to help speed the understanding of the data and information communicated. 
+- Dashboards often link to the raw data within reports. Linking or enabling drill-down in dashboards to the detailed data is common. 
+- Staffs create reports. Managers and leaders identify dashboards. Reports are often identified as part of projects or programs by various middle managers, analysts, or business owners. The need for corporate dashboard(s) are more often catalyzed and propelled by senior management.
